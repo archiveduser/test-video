@@ -1,0 +1,201 @@
+SDR,#genre#
+1080p AVC 3M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%201080p%20AVC%203M.mp4
+1080p AVC 3M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%201080p%20AVC%203M.mp4
+1080p AV1 10bit 3M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%203M.mp4
+1080p AV1 10bit 3M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%203M.mp4
+1080p HEVC 8bit 3M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%203M.mp4
+1080p HEVC 8bit 3M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%203M.mp4
+1080p HEVC 10bit 3M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%203M.mp4
+1080p HEVC 10bit 3M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%203M.mp4
+1080p AVC 5M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%201080p%20AVC%205M.mp4
+1080p AVC 5M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%201080p%20AVC%205M.mp4
+1080p AV1 10bit 5M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%205M.mp4
+1080p AV1 10bit 5M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%205M.mp4
+1080p HEVC 8bit 5M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%205M.mp4
+1080p HEVC 8bit 5M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%205M.mp4
+1080p HEVC 10bit 5M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%205M.mp4
+1080p HEVC 10bit 5M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%205M.mp4
+1080p AVC 10M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2010M.mp4
+1080p AVC 10M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2010M.mp4
+1080p AV1 10bit 10M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2010M.mp4
+1080p AV1 10bit 10M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2010M.mp4
+1080p HEVC 8bit 10M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2010M.mp4
+1080p HEVC 8bit 10M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2010M.mp4
+1080p HEVC 10bit 10M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2010M.mp4
+1080p HEVC 10bit 10M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2010M.mp4
+1080p AVC 15M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2015M.mp4
+1080p AVC 15M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2015M.mp4
+1080p AV1 10bit 15M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2015M.mp4
+1080p AV1 10bit 15M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2015M.mp4
+1080p HEVC 8bit 15M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2015M.mp4
+1080p HEVC 8bit 15M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2015M.mp4
+1080p HEVC 10bit 15M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2015M.mp4
+1080p HEVC 10bit 15M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2015M.mp4
+1080p AVC 20M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2020M.mp4
+1080p AVC 20M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2020M.mp4
+1080p AV1 10bit 20M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2020M.mp4
+1080p AV1 10bit 20M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2020M.mp4
+1080p HEVC 8bit 20M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2020M.mp4
+1080p HEVC 8bit 20M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2020M.mp4
+1080p HEVC 10bit 20M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2020M.mp4
+1080p HEVC 10bit 20M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2020M.mp4
+1080p AV1 10bit 25M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2025M.mp4
+1080p AV1 10bit 25M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2025M.mp4
+1080p HEVC 8bit 25M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2025M.mp4
+1080p HEVC 8bit 25M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2025M.mp4
+1080p AVC 30M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2030M.mp4
+1080p AVC 30M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%201080p%20AVC%2030M.mp4
+1080p AV1 10bit 30M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2030M.mp4
+1080p AV1 10bit 30M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%201080p%20AV1%2010bit%2030M.mp4
+1080p HEVC 8bit 30M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2030M.mp4
+1080p HEVC 8bit 30M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%201080p%20HEVC%208bit%2030M.mp4
+1080p HEVC 10bit 30M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2030M.mp4
+1080p HEVC 10bit 30M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%201080p%20HEVC%2010bit%2030M.mp4
+4K AVC 40M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%2040M.mp4
+4K AVC 40M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%2040M.mp4
+4K AV1 10bit 40M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2040M.mp4
+4K AV1 10bit 40M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2040M.mp4
+4K HEVC 8bit 40M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2040M.mp4
+4K HEVC 8bit 40M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2040M.mp4
+4K HEVC 10bit 40M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2040M.mp4
+4K HEVC 10bit 40M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2040M.mp4
+4K AVC 50M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%2050M.mp4
+4K AVC 50M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%2050M.mp4
+4K AV1 10bit 50M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2050M.mp4
+4K AV1 10bit 50M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2050M.mp4
+4K HEVC 8bit 50M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2050M.mp4
+4K HEVC 8bit 50M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2050M.mp4
+4K HEVC 10bit 50M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2050M.mp4
+4K HEVC 10bit 50M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2050M.mp4
+4K AVC 60M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%2060M.mp4
+4K AVC 60M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%2060M.mp4
+4K AV1 10bit 60M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2060M.mp4
+4K AV1 10bit 60M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2060M.mp4
+4K HEVC 8bit 60M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2060M.mp4
+4K HEVC 8bit 60M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2060M.mp4
+4K HEVC 10bit 60M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2060M.mp4
+4K HEVC 10bit 60M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2060M.mp4
+4K AVC 70M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%2070M.mp4
+4K AVC 70M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%2070M.mp4
+4K AV1 10bit 70M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2070M.mp4
+4K AV1 10bit 70M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2070M.mp4
+4K HEVC 8bit 70M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2070M.mp4
+4K HEVC 8bit 70M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2070M.mp4
+4K HEVC 10bit 70M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2070M.mp4
+4K HEVC 10bit 70M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2070M.mp4
+4K AVC 80M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%2080M.mp4
+4K AVC 80M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%2080M.mp4
+4K AV1 10bit 80M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2080M.mp4
+4K AV1 10bit 80M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2080M.mp4
+4K HEVC 8bit 80M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2080M.mp4
+4K HEVC 8bit 80M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2080M.mp4
+4K HEVC 10bit 80M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2080M.mp4
+4K HEVC 10bit 80M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2080M.mp4
+4K AVC 90M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%2090M.mp4
+4K AVC 90M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%2090M.mp4
+4K AV1 10bit 90M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2090M.mp4
+4K AV1 10bit 90M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%2090M.mp4
+4K HEVC 8bit 90M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2090M.mp4
+4K HEVC 8bit 90M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%2090M.mp4
+4K HEVC 10bit 90M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2090M.mp4
+4K HEVC 10bit 90M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%2090M.mp4
+4K AVC 100M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%20100M.mp4
+4K AVC 100M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%20100M.mp4
+4K AV1 10bit 100M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%20100M.mp4
+4K AV1 10bit 100M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%204K%20AV1%2010bit%20100M.mp4
+4K HEVC 8bit 100M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%20100M.mp4
+4K HEVC 8bit 100M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%20100M.mp4
+4K HEVC 10bit 100M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%20100M.mp4
+4K HEVC 10bit 100M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%20100M.mp4
+4K AVC 150M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%204K%20AVC%20150M.mp4
+4K AVC 150M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%204K%20AVC%20150M.mp4
+4K HEVC 8bit 150M,https://repo.jellyfin.org/test-videos/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%20150M.mp4
+4K HEVC 8bit 150M,http://192.168.2.2:8091/SDR/HEVC%208bit/Test%20Jellyfin%204K%20HEVC%208bit%20150M.mp4
+4K HEVC 10bit 150M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%20150M.mp4
+4K HEVC 10bit 150M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%204K%20HEVC%2010bit%20150M.mp4
+8K AVC 150M,https://repo.jellyfin.org/test-videos/SDR/AVC/Test%20Jellyfin%208K%20AVC%20150M.mp4
+8K AVC 150M,http://192.168.2.2:8091/SDR/AVC/Test%20Jellyfin%208K%20AVC%20150M.mp4
+8K AV1 10bit 100M,https://repo.jellyfin.org/test-videos/SDR/AV1/Test%20Jellyfin%208K%20AV1%2010bit%20100M.mp4
+8K AV1 10bit 100M,http://192.168.2.2:8091/SDR/AV1/Test%20Jellyfin%208K%20AV1%2010bit%20100M.mp4
+8K HEVC 10bit 150M,https://repo.jellyfin.org/test-videos/SDR/HEVC%2010bit/Test%20Jellyfin%208K%20HEVC%2010bit%20150M.mp4
+8K HEVC 10bit 150M,http://192.168.2.2:8091/SDR/HEVC%2010bit/Test%20Jellyfin%208K%20HEVC%2010bit%20150M.mp4
+HDR10,#genre#
+1080p AV1 HDR10 3M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%203M.mp4
+1080p AV1 HDR10 3M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%203M.mp4
+1080p HEVC HDR10 3M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%203M.mp4
+1080p HEVC HDR10 3M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%203M.mp4
+1080p AV1 HDR10 5M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%205M.mp4
+1080p AV1 HDR10 5M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%205M.mp4
+1080p HEVC HDR10 5M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%205M.mp4
+1080p HEVC HDR10 5M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%205M.mp4
+1080p AV1 HDR10 10M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2010M.mp4
+1080p AV1 HDR10 10M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2010M.mp4
+1080p HEVC HDR10 10M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2010M.mp4
+1080p HEVC HDR10 10M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2010M.mp4
+1080p AV1 HDR10 15M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2015M.mp4
+1080p AV1 HDR10 15M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2015M.mp4
+1080p HEVC HDR10 15M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2015M.mp4
+1080p HEVC HDR10 15M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2015M.mp4
+1080p AV1 HDR10 20M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2020M.mp4
+1080p AV1 HDR10 20M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2020M.mp4
+1080p HEVC HDR10 20M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2020M.mp4
+1080p HEVC HDR10 20M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2020M.mp4
+1080p AV1 HDR10 25M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2025M.mp4
+1080p AV1 HDR10 25M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2025M.mp4
+1080p AV1 HDR10 30M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2030M.mp4
+1080p AV1 HDR10 30M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%201080p%20AV1%20HDR10%2030M.mp4
+1080p HEVC HDR10 30M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2030M.mp4
+1080p HEVC HDR10 30M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%201080p%20HEVC%20HDR10%2030M.mp4
+4K AV1 HDR10 40M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2040M.mp4
+4K AV1 HDR10 40M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2040M.mp4
+4K HEVC HDR10 40M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2040M.mp4
+4K HEVC HDR10 40M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2040M.mp4
+4K AV1 HDR10 50M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2050M.mp4
+4K AV1 HDR10 50M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2050M.mp4
+4K HEVC HDR10 50M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2050M.mp4
+4K HEVC HDR10 50M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2050M.mp4
+4K AV1 HDR10 60M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2060M.mp4
+4K AV1 HDR10 60M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2060M.mp4
+4K HEVC HDR10 60M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2060M.mp4
+4K HEVC HDR10 60M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2060M.mp4
+4K AV1 HDR10 70M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2070M.mp4
+4K AV1 HDR10 70M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2070M.mp4
+4K HEVC HDR10 70M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2070M.mp4
+4K HEVC HDR10 70M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2070M.mp4
+4K AV1 HDR10 80M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2080M.mp4
+4K AV1 HDR10 80M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2080M.mp4
+4K HEVC HDR10 80M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2080M.mp4
+4K HEVC HDR10 80M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2080M.mp4
+4K AV1 HDR10 90M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2090M.mp4
+4K AV1 HDR10 90M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%2090M.mp4
+4K HEVC HDR10 90M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2090M.mp4
+4K HEVC HDR10 90M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%2090M.mp4
+4K AV1 HDR10 100M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%20100M.mp4
+4K AV1 HDR10 100M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%204K%20AV1%20HDR10%20100M.mp4
+4K HEVC HDR10 100M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%20100M.mp4
+4K HEVC HDR10 100M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%20100M.mp4
+4K HEVC HDR10 150M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%20150M.mp4
+4K HEVC HDR10 150M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%204K%20HEVC%20HDR10%20150M.mp4
+8K AV1 HDR10 100M,https://repo.jellyfin.org/test-videos/HDR/HDR10/AV1/Test%20Jellyfin%208K%20AV1%20HDR10%20100M.mp4
+8K AV1 HDR10 100M,http://192.168.2.2:8091/HDR/HDR10/AV1/Test%20Jellyfin%208K%20AV1%20HDR10%20100M.mp4
+8K HEVC HDR10 150M,https://repo.jellyfin.org/test-videos/HDR/HDR10/HEVC/Test%20Jellyfin%208K%20HEVC%20HDR10%20150M.mp4
+8K HEVC HDR10 150M,http://192.168.2.2:8091/HDR/HDR10/HEVC/Test%20Jellyfin%208K%20HEVC%20HDR10%20150M.mp4
+Dolby Vision,#genre#
+1080p DV P5,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%201080p%20DV%20P5.mp4
+1080p DV P5,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%201080p%20DV%20P5.mp4
+4K DV P5,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%204K%20DV%20P5.mp4
+4K DV P5,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%204K%20DV%20P5.mp4
+8K DV P5,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%208K%20DV%20P5.mp4
+8K DV P5,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%208K%20DV%20P5.mp4
+1080p DV P8.1,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%201080p%20DV%20P8.1.mp4
+1080p DV P8.1,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%201080p%20DV%20P8.1.mp4
+4K DV P8.1,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%204K%20DV%20P8.1.mp4
+4K DV P8.1,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%204K%20DV%20P8.1.mp4
+8K DV P8.1,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%208K%20DV%20P8.1.mp4
+8K DV P8.1,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%208K%20DV%20P8.1.mp4
+1080p DV P8.4,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%201080p%20DV%20P8.4.mp4
+1080p DV P8.4,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%201080p%20DV%20P8.4.mp4
+4K DV P8.4,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%204K%20DV%20P8.4.mp4
+4K DV P8.4,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%204K%20DV%20P8.4.mp4
+8K DV P8.4,https://repo.jellyfin.org/test-videos/HDR/Dolby%20Vision/Test%20Jellyfin%208K%20DV%20P8.4.mp4
+8K DV P8.4,http://192.168.2.2:8091/HDR/Dolby%20Vision/Test%20Jellyfin%208K%20DV%20P8.4.mp4
